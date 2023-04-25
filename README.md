@@ -1,4 +1,6 @@
 # reboot2023
-reboot repository
+reboot repository for reboot 1.0 in 2023.
 
-## What did the janitar say when he jumped out of the maintenance closet? Supplies 
+## How about a joke?
+What did the janitor say when he jumped out of the maintenance closet? 
+Supplies 
